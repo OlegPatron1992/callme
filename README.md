@@ -8,8 +8,4 @@ Installation:
 Need a help? Read [PDF docs](https://olegpatron1992.github.io/callme/readme.pdf) first.
 Feel free to edit.
 
-Want to contribute?
-
-[![Donate Bitcoin](https://img.shields.io/badge/donate-bitcoin-orange.svg)](https://olegpatron1992.github.io/)
-
 
